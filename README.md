@@ -1,2 +1,2 @@
-# outsourcing-
+# outsourcing
 outsourcing project
